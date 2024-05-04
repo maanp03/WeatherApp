@@ -12,7 +12,8 @@ WeatherApp retrieves weather data from the OpenWeatherMap API based on the city 
  
  ## Demo of app
 
- <img width="209" alt="image" src="https://github.com/maanp03/WeatherApp/assets/99618820/d6846b6c-3693-47d7-9dc3-cfd92cd03fe9">
+ <img width="400"" alt="image" src="https://github.com/maanp03/WeatherApp/assets/99618820/d6846b6c-3693-47d7-9dc3-cfd92cd03fe9">
+ 
  
  ![DemoGIF](https://github.com/maanp03/WeatherApp/assets/99618820/d74016e6-2ef6-4ffc-89a6-b1e57e187d08)
 
